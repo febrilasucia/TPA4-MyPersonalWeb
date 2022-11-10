@@ -16,25 +16,25 @@ function CardMenuHome() {
         <ul>
           <li className="card-view">
             <Link to="/portofolio">
-              <img src="src/components/image/5.png" alt="" />
+              <img src="image/5.png" alt="" />
               My Portofolio
             </Link>
           </li>
           <li className="card-view">
             <a href="/blog">
-              <img src="src/components/image/8.png" alt="" />
+              <img src="image/8.png" alt="" />
               My Blog
             </a>
           </li>
           <li className="card-view">
             <a href="/aboutme">
-              <img src="src/components/image/7.png" alt="" />
+              <img src="image/7.png" alt="" />
               My Profile
             </a>
           </li>
           <li className="card-view">
             <a href="/">
-              <img src="src/components/image/5.png" alt="" />
+              <img src="image/5.png" alt="" />
               My Dashboard
             </a>
           </li>
