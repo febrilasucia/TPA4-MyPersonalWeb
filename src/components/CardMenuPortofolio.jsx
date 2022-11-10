@@ -15,7 +15,10 @@ function CardMenuPortofolio() {
         <ul>
           <li>
             <div className="card-view-porto">
-              <img src="src/components/image/9.png" alt="" />
+              <img
+                src="https://i.pinimg.com/236x/ca/3c/bc/ca3cbc4ee1efd0fd61f50b6c97523757.jpg"
+                alt=""
+              />
               <div>
                 <a href="">Coffee Bean Shop</a>
                 <p>
@@ -27,7 +30,10 @@ function CardMenuPortofolio() {
           </li>
           <li>
             <div className="card-view-porto">
-              <img src="src/components/image/10.png" alt="" />
+              <img
+                src="https://i.pinimg.com/236x/5f/68/a0/5f68a075137e43dbd6612e94522be0cb.jpg"
+                alt=""
+              />
               <div>
                 <a href="">Coffee Bean Shop</a>
                 <p>
@@ -39,7 +45,10 @@ function CardMenuPortofolio() {
           </li>
           <li>
             <div className="card-view-porto">
-              <img src="src/components/image/14.png" alt="" />
+              <img
+                src="https://i.pinimg.com/236x/5f/30/0b/5f300b857169aa815f4fc6639b186597.jpg"
+                alt=""
+              />
               <div>
                 <a href="">Coffee Bean Shop</a>
                 <p>
